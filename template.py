@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 # pathlib is platform-independent library for file path manipulation for windows, mac, linux.
 
-project_name = "Project_Name"         ## change project name here
+project_name = "us_visa"   
 
 list_of_files = [
 
