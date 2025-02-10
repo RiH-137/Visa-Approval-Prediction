@@ -18,11 +18,15 @@ pip install -r requirements.txt
 
 
 ### Workflow:
-constants
-entity
-components
-pipeline
-Main file
+~ constants
+
+~ entity
+
+~ components
+
+~ pipeline
+
+~ Main file
 
 
 ### Export the environment variable
