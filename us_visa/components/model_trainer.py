@@ -7,6 +7,7 @@ from pandas import DataFrame
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 from neuro_mf  import ModelFactory
+## neuro_mf is a package that is used to get the best model for the given data(hyperparameter tuning)
 
 from us_visa.exception import USvisaException
 from us_visa.logger import logging
